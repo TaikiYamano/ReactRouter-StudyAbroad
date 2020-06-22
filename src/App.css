@@ -24,7 +24,10 @@ nav{
     color: #808080;
 }
 
-.header_menu li a:hover{}
+.header_menu li a:hover{
+    color: #fff;
+    transition: 200ms ;
+}
 
 .header_title_img{
     background: url('./images/header_img.JPG') center/cover;
