@@ -3,6 +3,7 @@ body{
     background-color: #f1f1f1;
 }
 
+/* ヘッダーメニュー */
 nav{
     text-align: right;
 }
@@ -29,6 +30,7 @@ nav{
     transition: 200ms ;
 }
 
+/* ヘッダータイトル */
 .header_title_img{
     background: url('./images/header_img.JPG') center/cover;
     position: relative;
@@ -43,4 +45,40 @@ nav{
     color: #fff;
     text-align: center;
     font-size: 2rem;
+}
+
+/* ページ部分 */
+.whole_wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.page_title{
+  text-align: center;
+  margin: 40px auto;
+}
+
+.content{
+    display: flex;
+    margin-top: 40px;
+}
+
+.img_space{
+    border: 1px solid #000;
+    width: 600px;
+    height: 400px;
+}
+
+p{
+    line-height: 2rem;
+    margin: 0;
+    font-size: 18px;
+}
+
+.img_left,.text_left{
+    margin-right: 8px;
+}
+
+.img_right,.text_right{
+    margin-left: 8px;
 }
