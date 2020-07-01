@@ -6,6 +6,7 @@ import {
 } from 'react-router-dom';
 import Top from './components/Top/Top';
 import Study from './components/Study/Study';
+import Dance from './components/Dance/Dance';
 import '../src/Page.css';
 
 function Page(){
@@ -25,6 +26,7 @@ function Page(){
                 </div>
                 <Route path="/" exact component={Top} />
                 <Route path="/study" exact component={Study} />
+                <Route path="/dance" exact component={Dance} />
             </BrowserRouter>
         </header>
     )
