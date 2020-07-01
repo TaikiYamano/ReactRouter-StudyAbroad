@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../App.css';
+import '../../Page.css';
 
 function Study(){
     return(
