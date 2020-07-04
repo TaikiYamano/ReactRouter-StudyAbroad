@@ -7,6 +7,7 @@ import {
 import Top from './components/Top/Top';
 import Study from './components/Study/Study';
 import Dance from './components/Dance/Dance';
+import Trip from './components/Trip/Trip';
 import '../src/Page.css';
 
 function Page(){
@@ -27,6 +28,7 @@ function Page(){
                 <Route path="/" exact component={Top} />
                 <Route path="/study" exact component={Study} />
                 <Route path="/dance" exact component={Dance} />
+                <Route path="/trip" exact component={Trip} />
             </BrowserRouter>
         </header>
     )
