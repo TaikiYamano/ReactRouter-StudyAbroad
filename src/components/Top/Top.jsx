@@ -3,8 +3,8 @@ import '../../Page.css';
 
 function Top(){
     return(
-        <div class="whole_wrapper">
-            <div class="inner">
+        <div className="whole_wrapper">
+            <div className="inner">
                 <h1 className="page_title">Top</h1>
                 <div className="content">
                     <div className="img_space img_left">

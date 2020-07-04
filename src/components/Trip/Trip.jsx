@@ -3,11 +3,11 @@ import '../../Page.css';
 
 function Trip(){
     return(
-        <div class="whole_wrapper">
-            <div class="inner">
+        <div className="whole_wrapper">
+            <div className="inner">
                 <h1 className="page_title">Trip</h1>
                 <p className="trip_top_text">
-                    I didn’t visit a lot of places while studying abroad becase I was so busy with studying. But I visited NewYork City twice, and Niagara Falls twice.  
+                    I couldn't visit a lot of places while studying abroad becase I was so busy with studying. But I visited NewYork City twice, and Niagara Falls twice.  
                 </p>
                 <div className="content">
                     <p className="text_space text_left">

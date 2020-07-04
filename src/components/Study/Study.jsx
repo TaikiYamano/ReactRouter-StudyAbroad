@@ -3,8 +3,8 @@ import '../../Page.css';
 
 function Study(){
     return(
-        <div class="whole_wrapper">
-            <div class="inner">
+        <div className="whole_wrapper">
+            <div className="inner">
                 <h1 className="page_title">Study</h1>
                 <div className="content">
                     <p className="text_space text_left">
