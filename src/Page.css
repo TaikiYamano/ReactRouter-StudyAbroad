@@ -92,29 +92,33 @@ p{
     margin-bottom: 60px;
 }
 
-/* スマホ&タブレット */
-@media screen and (max-width: 559px){
+.pictures_gallery{
+    text-align: center;
+    margin-top: 80px;
+}
+
+/* スマホ*/
+@media screen and (max-width: 767px) {
     nav{
-            position: fixed;
-            top: 20vh;
-              right:0;
-              z-index:1;
-              text-align: left;
+        position: fixed;
+        top: 20vh;
+        right:0;
+        z-index:1;
+        text-align: left;
     }
 
     nav li:not(:last-child) {
         border-right: none;
     }
 
-    nav li a{
+    nav li a {
         -webkit-writing-mode: vertical-rl;
-  -ms-writing-mode: tb-rl;
-  writing-mode: vertical-rl;
-  /* 以下、装飾 */
-	padding:20px 10px;
-  color:#9F886E;
-    background-color: #ddd;
-    opacity: 0.7;
+        -ms-writing-mode: tb-rl;
+        writing-mode: vertical-rl;
+	    padding:20px 10px;
+        color:#9F886E;
+        background-color: #ddd;
+        opacity: 0.7;
     }
 
     .header_menu{
@@ -154,7 +158,8 @@ p{
     }
 }
 
-@media screen and (max-width: 959px) {
+/* タブレット */
+@media (min-width: 415px) and (max-width: 1024px){
     .content{
         display: block;
     }
@@ -182,5 +187,18 @@ p{
     .trip_top_text{
         text-align: left;
     }
+}
+
+@media (min-width: 480px) and (max-width: 767px){
+    .header_menu li {
+        min-width: 400px;
+    }
+}
+
+
+/* ↓ipad Pro~PC表示まで↓*/
+@media (min-width: 1000px) and (max-width: 1024px){
+
+
 }
 
