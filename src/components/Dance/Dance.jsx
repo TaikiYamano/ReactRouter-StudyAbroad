@@ -19,13 +19,13 @@ function Dance(){
                     </p>
                 </div>
                 <div className="content">
+                    <div className="img_space img_right">
+
+                    </div>
                     <p className="text_space text_left">
                         A second time visit to NYC, I went to Broadway Dance Center that is world-famous Dance studio<br/> to take dance classes with the friends who created and showed the dance performance together.<br/>
                         It was so exciting and I was really glad to take dance classes at one of the best dance studios while I was in America.
                     </p>
-                    <div className="img_space img_right">
-
-                    </div>
                 </div>
             </div>
         </div>

@@ -18,15 +18,15 @@ function Top(){
                     </p>
                 </div>
                 <div className="content">
+                    <div className="img_space img_right">
+
+                    </div>
                     <p className="text_space text_left">
                         I think the time I spend there is one of the best memory in my life, also, I think this experience 
                         inspired me to study programmings and be a web engineer.<br/>
                         So, in this web page, I would like to share  my memory in America with you!<br/>
                         This web page is created by React and React Router.
                     </p>
-                    <div className="img_space img_right">
-
-                    </div>
                 </div>
             </div>
         </div>

@@ -7,14 +7,14 @@ function Study(){
             <div className="inner">
                 <h1 className="page_title">Study</h1>
                 <div className="content">
+                    <div className="img_space img_right">
+
+                    </div>
                     <p className="text_space text_left">
                         I studied in ELS that was added to The Collage at BROCKPORT that was in Rochester in New York State,<br/>
                         and Istudied English mainly. Rochester  was country side, so I have nothing to do, <br/>
                         but it was kind of good place to focus on studying.
                     </p>
-                    <div className="img_space img_right">
-
-                    </div>
                 </div>
                 <div className="content">
                     <div className="img_space img_left">

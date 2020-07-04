@@ -5,19 +5,21 @@ body{
 
 /* ヘッダーメニュー */
 nav{
-    text-align: right;
+    text-align: center;
+}
+
+nav li:not(:last-child){
+    border-right: 2px solid #ddd;
 }
 
 .header_menu{
     list-style: none;
-    padding: 0 0 10px 0;
     display: inline-block;
-    border-bottom: 1px solid #808080;
 }
 
 .header_menu li{
     display: inline-block;
-    margin: 0 15px;
+    min-width: 180px;
 }
 
 .header_menu li a{
@@ -81,6 +83,7 @@ p{
 
 .img_right,.text_right{
     margin-left: 8px;
+    order: 1;
 }
 
 /* Tripページのトップテキスト */
@@ -88,3 +91,96 @@ p{
     text-align: center;
     margin-bottom: 60px;
 }
+
+/* スマホ&タブレット */
+@media screen and (max-width: 559px){
+    nav{
+            position: fixed;
+            top: 20vh;
+              right:0;
+              z-index:1;
+              text-align: left;
+    }
+
+    nav li:not(:last-child) {
+        border-right: none;
+    }
+
+    nav li a{
+        -webkit-writing-mode: vertical-rl;
+  -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+  /* 以下、装飾 */
+	padding:20px 10px;
+  color:#9F886E;
+    background-color: #ddd;
+    opacity: 0.7;
+    }
+
+    .header_menu{
+        padding: 0;
+    }
+
+    .header_menu li {
+        min-width: 240px;
+    }
+
+    .content{
+        display: block;
+    }
+
+    .text_space{
+        margin-top: 16px;
+    }
+
+    .img_space{
+        width: 100%;
+    }
+
+    .img_left, .text_left {
+        margin-right: 0;
+    }
+
+    .img_right, .text_right {
+        margin-left: 0;
+    }
+
+    br{
+        display: none;
+    }
+
+    .trip_top_text{
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 959px) {
+    .content{
+        display: block;
+    }
+
+    .text_space{
+        margin-top: 16px;
+    }
+
+    .img_space{
+        width: 100%;
+    }
+
+    .img_left, .text_left {
+        margin-right: 0;
+    }
+
+    .img_right, .text_right {
+        margin-left: 0;
+    }
+
+    br{
+        display: none;
+    }
+
+    .trip_top_text{
+        text-align: left;
+    }
+}
+
