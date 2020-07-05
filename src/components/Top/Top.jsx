@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../Page.css';
-import Top_img1 from '../../images/top/top_img1.JPG';
-import Top_img2 from '../../images/top/top_img2.JPG';
+import Top_img1 from '../../images/Top/top_img1.JPG';
+import Top_img2 from '../../images/Top/top_img2.JPG';
 
 function Top(){
     return(
