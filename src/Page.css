@@ -19,7 +19,7 @@ nav li:not(:last-child){
 
 .header_menu li{
     display: inline-block;
-    min-width: 180px;
+    min-width: 240px;
 }
 
 .header_menu li a{
@@ -160,6 +160,10 @@ p{
 
 /* タブレット */
 @media (min-width: 415px) and (max-width: 1024px){
+    .header_menu li {
+        min-width: 180px;
+    }
+
     .content{
         display: block;
     }

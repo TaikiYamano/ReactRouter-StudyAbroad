@@ -34,6 +34,10 @@ function Trip(){
                         If I have a chance, I would like to visit America and NYC again! 
                     </p>
                 </div>
+                <div className="pictures_gallery">
+                    <h1>Pictures gallery</h1>
+                    <p>I'm going to share some of my pictures about my trips in America here!</p>
+                </div>
             </div>
         </div>
     )
