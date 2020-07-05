@@ -11,7 +11,7 @@ function Dance(){
                 <div className="content">
                     <div className="img_space img_left">
                         <img src={Dance_img1} alt="dance_img1"/>
-                        <span className="picture_description">Picture: Me dancing at dance performance for students of dance major .</span>
+                        <span className="picture_description">Picture: Me dancing at dance performance for students of dance major.</span>
                     </div>
                     <p className="text_space text_right">
                         I was good at dancing, so I used dance to make friends in America. <br/>

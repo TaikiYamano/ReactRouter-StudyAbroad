@@ -139,7 +139,7 @@ p{
     }
 
     .text_space{
-        margin-top: 16px;
+        margin-top: 56px;
     }
 
     .img_space{
@@ -152,6 +152,10 @@ p{
 
     .img_right, .text_right {
         margin-left: 0;
+    }
+
+    .picture_description{
+        font-size: 14px;
     }
 
     br{
@@ -198,6 +202,7 @@ p{
     }
 }
 
+/* ↓スマホ~ipadまで↓ */
 @media (min-width: 480px) and (max-width: 767px){
     .header_menu li {
         min-width: 400px;

@@ -20,42 +20,52 @@ function Trip(){
     {
         original: `${Trip_img1}`,
         thumbnail: `${Trip_img1}`,
+        description: "Grand Central Terminal",
     },
     {
         original: `${Trip_img2}`,
         thumbnail: `${Trip_img2}`,
+        description: "The Statue of Liberty",
     },
     {
         original: `${Trip_img3}`,
         thumbnail: `${Trip_img3}`,
+        description: "Landscape of NYC",
     },
     {
         original: `${Trip_img4}`,
         thumbnail: `${Trip_img4}`,
+        description: "Me in front of Niagara Falls' billboard",
     },
     {
         original: `${Trip_img5}`,
         thumbnail: `${Trip_img5}`,
+        description: "A church in New York (Maybe St. Patrick's Cathedral)",
     },
     {
         original: `${Trip_img6}`,
         thumbnail: `${Trip_img6}`,
+        description: "Trump Tower",
     },
     {
         original: `${Trip_img7}`,
         thumbnail: `${Trip_img7}`,
+        description: "Night Brooklyn bridge",
     },
     {
         original: `${Trip_img8}`,
         thumbnail: `${Trip_img8}`,
+        description: "Night view from Brooklyn bridge",
     },
     {
         original: `${Trip_img9}`,
         thumbnail: `${Trip_img9}`,
+        description: "New York Public Library",
     },
     {
         original: `${Trip_img10}`,
         thumbnail: `${Trip_img10}`,
+        description: "Niagara Falls from the ship"
     },
   ];
     return(
@@ -80,7 +90,7 @@ function Trip(){
                 <div className="content">
                     <div className="img_space img_left">
                         <img src={TimesSquare} alt="NiagaraFalls"/>
-                        <span className="picture_description">Picture: the countdown at Times Square in New York on New Year’s Eve<br/>(I could't get rightsize picture...)</span>
+                        <span className="picture_description">Picture: the countdown at Times Square in New York on New Year’s Eve</span>
                     </div>
                     <p className="text_space text_right">
                         Visiting New York City is one of the best memories in my life! <br/>
