@@ -11,7 +11,7 @@ function Top(){
                 <div className="content">
                     <div className="img_space img_left">
                         <img src={Top_img1} alt="top_img1"/>
-                        <span className="picture_description">Picture: NYC that was seen from the ship heading to Liberty Island.</span>
+                        <span className="picture_description">Picture: New York that was seen from the ship heading to Liberty Island</span>
                     </div>
                     <p className="text_space text_right">
                         When I was a freshman in a collage, I studied abroad in America for 9 months(from September,2016 to 
@@ -23,7 +23,7 @@ function Top(){
                 <div className="content">
                     <div className="img_space img_right">
                         <img src={Top_img2} alt="top_img2"/>
-                        <span className="picture_description">Picture: Google in NYC.</span>
+                        <span className="picture_description">Picture: Google in NYC</span>
                     </div>
                     <p className="text_space text_left">
                         I think the time I spend there is one of the best memory in my life, also, I think this experience 
