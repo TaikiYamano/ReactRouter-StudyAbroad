@@ -62,7 +62,7 @@ nav li:not(:last-child){
 
 .content{
     display: flex;
-    margin: 60px auto;
+    margin: 60px auto 72px;
 }
 
 .img_space{
@@ -136,6 +136,7 @@ p{
 
     .content{
         display: block;
+        margin: 60px auto;
     }
 
     .text_space{
