@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../Page.css';
-import Dance_img1 from '../../images/dance/dance_img1.JPG';
-import Dance_img2 from '../../images/dance/dance_img2.JPG';
+import Dance_img1 from '../../images/Dance/dance_img1.JPG';
+import Dance_img2 from '../../images/Dance/dance_img2.JPG';
 
 function Dance(){
     return(

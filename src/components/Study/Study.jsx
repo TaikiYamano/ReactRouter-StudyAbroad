@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../Page.css';
-import Study_img1 from '../../images/study/study_img1.JPG';
-import Study_img2 from '../../images/study/study_img2.JPG';
+import Study_img1 from '../../images/Study/study_img1.JPG';
+import Study_img2 from '../../images/Study/study_img2.JPG';
 
 function Study(){
     return(
