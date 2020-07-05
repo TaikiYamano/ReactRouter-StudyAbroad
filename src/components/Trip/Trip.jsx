@@ -1,7 +1,63 @@
 import React from 'react';
 import '../../Page.css';
+import NiagaraFalls from '../../images/trip/niagarafalls.JPG';
+import TimesSquare from '../../images/trip/timessquare.JPG';
+import Trip_img1 from '../../images/trip/trip_img1.JPG';
+import Trip_img2 from '../../images/trip/trip_img2.JPG';
+import Trip_img3 from '../../images/trip/trip_img3.JPG';
+import Trip_img4 from '../../images/trip/trip_img4.JPG';
+import Trip_img5 from '../../images/trip/trip_img5.JPG';
+import Trip_img6 from '../../images/trip/trip_img6.JPG';
+import Trip_img7 from '../../images/trip/trip_img7.JPG';
+import Trip_img8 from '../../images/trip/trip_img8.JPG';
+import Trip_img9 from '../../images/trip/trip_img9.JPG';
+import Trip_img10 from '../../images/trip/trip_img10.JPG';
+import ImageGallery from 'react-image-gallery';
+import "react-image-gallery/styles/css/image-gallery.css";
 
 function Trip(){
+    const images = [
+    {
+        original: `${Trip_img1}`,
+        thumbnail: `${Trip_img1}`,
+    },
+    {
+        original: `${Trip_img2}`,
+        thumbnail: `${Trip_img2}`,
+    },
+    {
+        original: `${Trip_img3}`,
+        thumbnail: `${Trip_img3}`,
+    },
+    {
+        original: `${Trip_img4}`,
+        thumbnail: `${Trip_img4}`,
+    },
+    {
+        original: `${Trip_img5}`,
+        thumbnail: `${Trip_img5}`,
+    },
+    {
+        original: `${Trip_img6}`,
+        thumbnail: `${Trip_img6}`,
+    },
+    {
+        original: `${Trip_img7}`,
+        thumbnail: `${Trip_img7}`,
+    },
+    {
+        original: `${Trip_img8}`,
+        thumbnail: `${Trip_img8}`,
+    },
+    {
+        original: `${Trip_img9}`,
+        thumbnail: `${Trip_img9}`,
+    },
+    {
+        original: `${Trip_img10}`,
+        thumbnail: `${Trip_img10}`,
+    },
+  ];
     return(
         <div className="whole_wrapper">
             <div className="inner">
@@ -11,7 +67,8 @@ function Trip(){
                 </p>
                 <div className="content">
                     <div className="img_space img_right">
-
+                        <img src={NiagaraFalls} alt="NiagaraFalls"/>
+                        <span className="picture_description">Picture: NiagaraFalls</span>
                     </div>
                     <p className="text_space text_left">
                         Niagara Falls was very amazing and powerful place! I had only seen it in books and on videos,<br/>so I was very glad to see
@@ -22,7 +79,8 @@ function Trip(){
                 </div>
                 <div className="content">
                     <div className="img_space img_left">
-
+                        <img src={TimesSquare} alt="NiagaraFalls"/>
+                        <span className="picture_description">Picture: the countdown at Times Square in New York on New Year’s Eve<br/>(I could't get rightsize picture...)</span>
                     </div>
                     <p className="text_space text_right">
                         Visiting New York City is one of the best memories in my life! <br/>
@@ -37,6 +95,7 @@ function Trip(){
                 <div className="pictures_gallery">
                     <h1>Pictures gallery</h1>
                     <p>I'm going to share some of my pictures about my trips in America here!</p>
+                    <ImageGallery items={images} />
                 </div>
             </div>
         </div>

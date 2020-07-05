@@ -62,13 +62,18 @@ nav li:not(:last-child){
 
 .content{
     display: flex;
-    margin: 40px auto;
+    margin: 60px auto;
 }
 
 .img_space{
-    border: 1px solid #000;
     width: 600px;
     height: 400px;
+}
+
+.img_space img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 p{
