@@ -28,6 +28,7 @@ function Page(){
                 <Route path="/" exact component={Top} />
                 <Route path="/study" exact component={Study} />
                 <Route path="/dance" exact component={Dance} />
+                
                 <Route path="/trip" exact component={Trip} />
             </BrowserRouter>
         </header>
