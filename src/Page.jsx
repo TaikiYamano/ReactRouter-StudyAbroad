@@ -16,10 +16,10 @@ function Page(){
             <HashRouter basename={process.env.PUBLIC_URL}>
                 <nav>
                     <ul className="header_menu">
-                        <li><Link to="/">Top</Link></li>
-                        <li><Link to="/study">Study</Link></li>
-                        <li><Link to="/dance">Dance</Link></li>
-                        <li><Link to="/trip">Trip</Link></li>
+                        <li><Link to="">Top</Link></li>
+                        <li><Link to="study">Study</Link></li>
+                        <li><Link to="dance">Dance</Link></li>
+                        <li><Link to="trip">Trip</Link></li>
                     </ul>
                 </nav>
                 <div className="header_title_img">
