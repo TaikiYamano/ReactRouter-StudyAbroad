@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-    BrowserRouter,
+    HashRouter,
     Route,
     Link
 } from 'react-router-dom';
@@ -13,7 +13,7 @@ import '../src/Page.css';
 function Page(){
     return(
         <header className="header_wrapper">
-            <BrowserRouter basename={process.env.PUBLIC_URL}>
+            <HashRouter>
                 <nav>
                     <ul className="header_menu">
                         <li><Link to="/">Top</Link></li>
@@ -29,7 +29,7 @@ function Page(){
                 <Route path="/study" exact component={Study} />
                 <Route path="/dance" exact component={Dance} />
                 <Route path="/trip" exact component={Trip} />
-            </BrowserRouter>
+            </HashRouter>
         </header>
     )
 }
