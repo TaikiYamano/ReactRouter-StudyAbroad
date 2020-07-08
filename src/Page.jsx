@@ -13,7 +13,7 @@ import '../src/Page.css';
 function Page(){
     return(
         <header className="header_wrapper">
-            <HashRouter basename={process.env.PUBLIC_URL}>
+            <HashRouter>
                 <nav>
                     <ul className="header_menu">
                         <li><Link to="">Top</Link></li>
