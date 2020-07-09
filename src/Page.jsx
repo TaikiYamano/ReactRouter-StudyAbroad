@@ -23,7 +23,7 @@ function Page(){
                     </ul>
                 </nav>
                 <div className="header_title_img">
-                    <h1 className="header_title">My Life In The U.S</h1>
+                    <h1 className="header_title">My Life In The U.S.</h1>
                 </div>
                 <Route path="/" exact component={Top} />
                 <Route path="/study" exact component={Study} />
