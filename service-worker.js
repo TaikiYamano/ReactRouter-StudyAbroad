@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactRouter-StudyAbroad/precache-manifest.b198aa3517372349b7fccb7b3af0264a.js"
+  "/ReactRouter-StudyAbroad/precache-manifest.77f642b4397e00e765d9f7dff863f8cf.js"
 );
 
 self.addEventListener('message', (event) => {
