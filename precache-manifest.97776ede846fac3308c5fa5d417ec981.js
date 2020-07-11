@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c1aee1a7d40ecec1a40ee09e6266668",
+    "revision": "240ae6609ada60c68a38be55562dd54a",
     "url": "/MyLifeInTheUS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyLifeInTheUS/static/css/2.40a775a0.chunk.css"
   },
   {
-    "revision": "09194b979e2432c78d26",
+    "revision": "b7070bae829fc42cc807",
     "url": "/MyLifeInTheUS/static/css/main.c37546c0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MyLifeInTheUS/static/js/2.0a40d074.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09194b979e2432c78d26",
-    "url": "/MyLifeInTheUS/static/js/main.93ece8da.chunk.js"
+    "revision": "b7070bae829fc42cc807",
+    "url": "/MyLifeInTheUS/static/js/main.d9bd67c3.chunk.js"
   },
   {
     "revision": "9add2e699f7ce7e93daf",

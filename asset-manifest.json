@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MyLifeInTheUS/static/css/main.c37546c0.chunk.css",
-    "main.js": "/MyLifeInTheUS/static/js/main.93ece8da.chunk.js",
-    "main.js.map": "/MyLifeInTheUS/static/js/main.93ece8da.chunk.js.map",
+    "main.js": "/MyLifeInTheUS/static/js/main.d9bd67c3.chunk.js",
+    "main.js.map": "/MyLifeInTheUS/static/js/main.d9bd67c3.chunk.js.map",
     "runtime-main.js": "/MyLifeInTheUS/static/js/runtime-main.2142c265.js",
     "runtime-main.js.map": "/MyLifeInTheUS/static/js/runtime-main.2142c265.js.map",
     "static/css/2.40a775a0.chunk.css": "/MyLifeInTheUS/static/css/2.40a775a0.chunk.css",
     "static/js/2.0a40d074.chunk.js": "/MyLifeInTheUS/static/js/2.0a40d074.chunk.js",
     "static/js/2.0a40d074.chunk.js.map": "/MyLifeInTheUS/static/js/2.0a40d074.chunk.js.map",
     "index.html": "/MyLifeInTheUS/index.html",
-    "precache-manifest.d24516084d2ee286b341ff858425a2ea.js": "/MyLifeInTheUS/precache-manifest.d24516084d2ee286b341ff858425a2ea.js",
+    "precache-manifest.97776ede846fac3308c5fa5d417ec981.js": "/MyLifeInTheUS/precache-manifest.97776ede846fac3308c5fa5d417ec981.js",
     "service-worker.js": "/MyLifeInTheUS/service-worker.js",
     "static/css/2.40a775a0.chunk.css.map": "/MyLifeInTheUS/static/css/2.40a775a0.chunk.css.map",
     "static/css/main.c37546c0.chunk.css.map": "/MyLifeInTheUS/static/css/main.c37546c0.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/css/2.40a775a0.chunk.css",
     "static/js/2.0a40d074.chunk.js",
     "static/css/main.c37546c0.chunk.css",
-    "static/js/main.93ece8da.chunk.js"
+    "static/js/main.d9bd67c3.chunk.js"
   ]
 }
