@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a882c211abbe5792d35f2ac5affab55b",
+    "revision": "9c1aee1a7d40ecec1a40ee09e6266668",
     "url": "/MyLifeInTheUS/index.html"
   },
   {
-    "revision": "1ee5b43ebe12f122a48b",
+    "revision": "f3d504dd0e5abbdded30",
     "url": "/MyLifeInTheUS/static/css/2.40a775a0.chunk.css"
   },
   {
-    "revision": "d6df6ac3ca8234fe73c6",
+    "revision": "09194b979e2432c78d26",
     "url": "/MyLifeInTheUS/static/css/main.c37546c0.chunk.css"
   },
   {
-    "revision": "1ee5b43ebe12f122a48b",
-    "url": "/MyLifeInTheUS/static/js/2.782ee3f5.chunk.js"
+    "revision": "f3d504dd0e5abbdded30",
+    "url": "/MyLifeInTheUS/static/js/2.0a40d074.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/MyLifeInTheUS/static/js/2.782ee3f5.chunk.js.LICENSE.txt"
+    "url": "/MyLifeInTheUS/static/js/2.0a40d074.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d6df6ac3ca8234fe73c6",
-    "url": "/MyLifeInTheUS/static/js/main.e01d7a3d.chunk.js"
+    "revision": "09194b979e2432c78d26",
+    "url": "/MyLifeInTheUS/static/js/main.93ece8da.chunk.js"
   },
   {
-    "revision": "65700cb523f5506d1a0e",
-    "url": "/MyLifeInTheUS/static/js/runtime-main.04f14a34.js"
+    "revision": "9add2e699f7ce7e93daf",
+    "url": "/MyLifeInTheUS/static/js/runtime-main.2142c265.js"
   },
   {
     "revision": "13345599f8867cdc9affe74ad175ba4a",

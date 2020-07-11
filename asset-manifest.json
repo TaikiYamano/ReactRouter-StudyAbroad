@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/MyLifeInTheUS/static/css/main.c37546c0.chunk.css",
-    "main.js": "/MyLifeInTheUS/static/js/main.e01d7a3d.chunk.js",
-    "main.js.map": "/MyLifeInTheUS/static/js/main.e01d7a3d.chunk.js.map",
-    "runtime-main.js": "/MyLifeInTheUS/static/js/runtime-main.04f14a34.js",
-    "runtime-main.js.map": "/MyLifeInTheUS/static/js/runtime-main.04f14a34.js.map",
+    "main.js": "/MyLifeInTheUS/static/js/main.93ece8da.chunk.js",
+    "main.js.map": "/MyLifeInTheUS/static/js/main.93ece8da.chunk.js.map",
+    "runtime-main.js": "/MyLifeInTheUS/static/js/runtime-main.2142c265.js",
+    "runtime-main.js.map": "/MyLifeInTheUS/static/js/runtime-main.2142c265.js.map",
     "static/css/2.40a775a0.chunk.css": "/MyLifeInTheUS/static/css/2.40a775a0.chunk.css",
-    "static/js/2.782ee3f5.chunk.js": "/MyLifeInTheUS/static/js/2.782ee3f5.chunk.js",
-    "static/js/2.782ee3f5.chunk.js.map": "/MyLifeInTheUS/static/js/2.782ee3f5.chunk.js.map",
+    "static/js/2.0a40d074.chunk.js": "/MyLifeInTheUS/static/js/2.0a40d074.chunk.js",
+    "static/js/2.0a40d074.chunk.js.map": "/MyLifeInTheUS/static/js/2.0a40d074.chunk.js.map",
     "index.html": "/MyLifeInTheUS/index.html",
-    "precache-manifest.de65073716bedc2850b2eaf704e8b118.js": "/MyLifeInTheUS/precache-manifest.de65073716bedc2850b2eaf704e8b118.js",
+    "precache-manifest.d24516084d2ee286b341ff858425a2ea.js": "/MyLifeInTheUS/precache-manifest.d24516084d2ee286b341ff858425a2ea.js",
     "service-worker.js": "/MyLifeInTheUS/service-worker.js",
     "static/css/2.40a775a0.chunk.css.map": "/MyLifeInTheUS/static/css/2.40a775a0.chunk.css.map",
     "static/css/main.c37546c0.chunk.css.map": "/MyLifeInTheUS/static/css/main.c37546c0.chunk.css.map",
-    "static/js/2.782ee3f5.chunk.js.LICENSE.txt": "/MyLifeInTheUS/static/js/2.782ee3f5.chunk.js.LICENSE.txt",
+    "static/js/2.0a40d074.chunk.js.LICENSE.txt": "/MyLifeInTheUS/static/js/2.0a40d074.chunk.js.LICENSE.txt",
     "static/media/dance_img1.JPG": "/MyLifeInTheUS/static/media/dance_img1.13345599.JPG",
     "static/media/dance_img2.JPG": "/MyLifeInTheUS/static/media/dance_img2.0d5486ec.JPG",
     "static/media/Page.css": "/MyLifeInTheUS/static/media/header_img.b881f66f.JPG",
@@ -35,10 +35,10 @@
     "static/media/trip_img9.JPG": "/MyLifeInTheUS/static/media/trip_img9.a1369dd0.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.04f14a34.js",
+    "static/js/runtime-main.2142c265.js",
     "static/css/2.40a775a0.chunk.css",
-    "static/js/2.782ee3f5.chunk.js",
+    "static/js/2.0a40d074.chunk.js",
     "static/css/main.c37546c0.chunk.css",
-    "static/js/main.e01d7a3d.chunk.js"
+    "static/js/main.93ece8da.chunk.js"
   ]
 }
