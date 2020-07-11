@@ -89,7 +89,7 @@ function Trip(){
                 </div>
                 <div className="content">
                     <div className="img_space img_left">
-                        <img src={TimesSquare} alt="NiagaraFalls"/>
+                        <img src={TimesSquare} alt="The countdown at Times Square"/>
                         <span className="picture_description">Picture: the countdown at Times Square in New York on New Year’s Eve</span>
                     </div>
                     <p className="text_space text_right">
